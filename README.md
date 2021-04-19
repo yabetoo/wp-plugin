@@ -1,0 +1,1 @@
+# yabetoopay-wp-plugin
